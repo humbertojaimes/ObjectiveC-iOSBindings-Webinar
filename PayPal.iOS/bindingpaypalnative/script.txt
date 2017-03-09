@@ -1,0 +1,1 @@
+sharpie bind -output Binding -sdk iphoneos10.2 -scope build/Headers headers/PayPalMobile.h -c -Ibuild/Headers -arch arm64
